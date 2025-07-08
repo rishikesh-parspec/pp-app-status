@@ -41,16 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apim.workato.com.ico",
     "slug": "workato-connector-health-stg",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.51%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "95.51%",
+    "uptimeYear": "95.51%",
     "time": 355,
     "timeDay": 355,
     "timeWeek": 355,
     "timeMonth": 355,
     "timeYear": 355,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-08": 0
+    }
   }
 ]
