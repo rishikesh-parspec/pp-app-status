@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apim.workato.com.ico",
     "slug": "workato-connector-health-staging",
     "status": "down",
-    "uptime": "96.53%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "96.53%",
-    "uptimeMonth": "96.53%",
-    "uptimeYear": "96.53%",
+    "uptime": "24.59%",
+    "uptimeDay": "24.59%",
+    "uptimeWeek": "24.59%",
+    "uptimeMonth": "24.59%",
+    "uptimeYear": "24.59%",
     "time": 404,
     "timeDay": 404,
     "timeWeek": 404,
     "timeMonth": 404,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2025-07-08": 0
+      "2025-07-08": 16
     }
   }
 ]
