@@ -11,6 +11,10 @@ sites:
     url: https://apim.workato.com/parspecdev/connector-health-vv1/connector-health-check
     headers:
       - "api-token: $RECIPE_TOKEN"
+  - name: 🔌 parspec connector
+    url: https://apim.workato.com/parspecdev/connector-health-vv1/parspec-connector
+    headers:
+      - "api-token: $RECIPE_TOKEN"
 
 
 
