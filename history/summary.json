@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 225,
-    "timeWeek": 225,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "time": 226,
+    "timeDay": 226,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apim.workato.com.ico",
     "slug": "workato-connector-health",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.72%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "98.72%",
     "time": 579,
     "timeDay": 579,
     "timeWeek": 579,
     "timeMonth": 579,
     "timeYear": 579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-08": 0
+    }
   }
 ]
