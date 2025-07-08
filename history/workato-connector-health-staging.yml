@@ -1,7 +1,7 @@
 url: https://apim.workato.com/parspecdev/connector-health-vv1/connector-health-check
-status: down
-code: 404
-responseTime: 186
-lastUpdated: 2025-07-08T08:40:59.671Z
+status: up
+code: 200
+responseTime: 742
+lastUpdated: 2025-07-08T08:56:46.806Z
 startTime: 2025-07-08T08:35:54.289Z
 generator: Upptime <https://github.com/upptime/upptime>
