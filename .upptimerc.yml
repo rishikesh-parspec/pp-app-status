@@ -10,7 +10,7 @@ sites:
   - name: workato-connector-health-stg
     url: https://apim.workato.com/parspecdev/connector-health-vv1/connector-health-check
     headers:
-      - "api-token: a88032c2354c741cbe9e055413901f0aad8f3793604fdaccf484570607dfb793"
+      - "api-token: $RECIPE_TOKEN"
 
 
 
