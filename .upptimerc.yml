@@ -3,7 +3,7 @@ owner: rishikesh-parspec # Your GitHub organization or username, where this repo
 repo: pp-app-status # The name of this repository
 
 sites:
-  - name: workato-connector-staging
+  - name: workato-connector-stg
     url: https://apim.workato.com/parspecdev/connector-health-vv1/connector-health-check
     method: GET
     headers:
