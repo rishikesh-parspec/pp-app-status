@@ -7,7 +7,7 @@ sites:
     url: https://www.google.com
   - name: Inventory Service
     url: https://inventory.parspec.io/inventory-service/marco
-  - name: workato-connector-health-stg
+  - name: workato-connector-health-staging
     url: https://apim.workato.com/parspecdev/connector-health-vv1/connector-health-check
     headers:
       - "api-token: $RECIPE_TOKEN"
